@@ -12,7 +12,7 @@ The wire payloads are byte-compatible with the SDKs for React Native, Android an
   s.homepage         = 'https://goaffpro.com'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'GoAffPro' => 'support@goaffpro.com' }
-  s.source           = { :git => 'https://github.com/goaffpro/mobile-sdk.git', :tag => "ios-v#{s.version}" }
+  s.source           = { :git => 'https://github.com/goaffpro/ios-sdk.git', :tag => "ios-v#{s.version}" }
 
   s.ios.deployment_target = '13.0'
   s.swift_version         = '5.9'
